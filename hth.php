@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>山田</h1>
+    <h1>山田</h1>
     
 </body>
 </html>
